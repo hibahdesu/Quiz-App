@@ -1,0 +1,82 @@
+[
+    {
+        "num": 1,
+        "question": "Can you swim?",
+        "answer-1": "In a pool",
+        "answer-2": "Very good",
+        "answer-3": "Yes, I can",
+        "correct": "Yes, I can"
+    },
+    {
+        "num": 2,
+        "question": "Did he go to work or to school?",
+        "answer-1": "To work",
+        "answer-2": "No, he doesn't",
+        "answer-3": "At 3:00 PM",
+        "correct": "To work"
+    },
+    {
+        "num": 3,
+        "question": "Has your class finished?",
+        "answer-1": "Yes, it has",
+        "answer-2": "In five minutes",
+        "answer-3": "It's English",
+        "correct": "Yes, it has"
+    },
+    {
+        "num": 4,
+        "question": "Where is my pen?",
+        "answer-1": "Because it's lost",
+        "answer-2": "No, you didn't",
+        "answer-3": "On the table",
+        "correct": "On the table"
+    },
+    {
+        "num": 5,
+        "question": "Who did you visit?",
+        "answer-1": " I visited Judy",
+        "answer-2": "I visit my mother",
+        "answer-3": "Yes, I did",
+        "correct": " I visited Judy"
+    },
+    {
+        "num": 6,
+        "question": "Shall we go to your place or mine?",
+        "answer-1": "My place",
+        "answer-2": "It is yours",
+        "answer-3": " Yes, we shall",
+        "correct": "My place"
+    },
+    {
+        "num": 7,
+        "question": "When will Lucy arrive?",
+        "answer-1": " No, she won't",
+        "answer-2": "From France",
+        "answer-3": " At 7 PM",
+        "correct": " At 7 PM"
+    },
+    {
+        "num": 8,
+        "question": "Who called here so late?",
+        "answer-1": "It's midnight",
+        "answer-2": " It was Ryan",
+        "answer-3": "Yes, I called",
+        "correct": "It was Rya"
+    },
+    {
+        "num": 9,
+        "question": "Do you want to watch a movie?",
+        "answer-1": "At the cinema",
+        "answer-2": "Yes, I watched it",
+        "answer-3": "No, I don't",
+        "correct": "No, I don't"
+    },
+    {
+        "num": 10,
+        "question": "Have you done the laundry?",
+        "answer-1": "Yes, I do",
+        "answer-2": "On Wednesdays",
+        "answer-3": "No, I haven't",
+        "correct": "No, I haven't"
+    }
+]
